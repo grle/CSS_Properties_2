@@ -1,0 +1,78 @@
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+nav {
+  background-color: black;
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
+
+/*additional edits */
+
+body {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 25px;
+  text-align: center;
+}
+
+h3 {
+  font-style: italic;
+}
+
+.author, .space {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
